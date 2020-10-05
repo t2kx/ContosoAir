@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository. For Demo PURPOSES ONLY!!!
 
 
 # Microsoft.Github CI Demo
